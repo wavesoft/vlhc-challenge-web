@@ -102,6 +102,11 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
     padding: 0px 0 10px 0;
 }
 
+.user_session_bounce_rate h3{
+		margin-bottom : 0px;
+		color : #2A6EBA;
+	}
+
 .big-heading {
 	font-size: 48px;
 	font-weight: 700;
