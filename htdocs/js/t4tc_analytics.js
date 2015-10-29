@@ -159,7 +159,7 @@ function addGenderDistributionChart(percentage_male_female) {
             text: '<i class="fa fa-male fa-3x"></i><i class="fa fa-female fa-3x"></i>',
             align: 'center',
             verticalAlign: 'middle',
-            y: 50,
+            y: 30,
             useHTML: true
         },
         tooltip: {
