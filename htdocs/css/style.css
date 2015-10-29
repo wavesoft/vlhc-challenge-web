@@ -107,6 +107,14 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 		color : #2A6EBA;
 	}
 
+.table img {
+    max-height: 28px;
+}
+
+.user_session_bounce_rate {
+    font-size: 14px;
+}
+
 .big-heading {
 	font-size: 48px;
 	font-weight: 700;
