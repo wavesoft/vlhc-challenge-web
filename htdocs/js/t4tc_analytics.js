@@ -97,7 +97,7 @@ function addVolunteersCountryMap(number_of_users_per_country) {
             }
             number_of_users_per_country_data.push(data_point);
         }else {
-            console.log("Wrong mapping" + c[0]);
+            console.log("Wrong mapping: " + c[0]);
         }
     }
 
