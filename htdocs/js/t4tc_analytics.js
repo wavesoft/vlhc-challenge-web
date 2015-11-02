@@ -60,7 +60,7 @@ function addTop10CountriesFemaleUsers(top_10_countries_by_female){
             
                 var tr = $('<tr/>')
                 var rank = $('<td/>').html("<strong>#"+(index+1)+"</strong>").css("vertical-align", "middle");
-                var img = $('<img/>').attr('src', 'images/flags/'+country_code+".png")
+                var img = $('<img/>').attr('src', 'images/flags/'+country_code+".png");
                 var img_td = $('<td/>').append(img);
                 var countr_name = $('<td/>').html(data[0]).css("vertical-align", "middle").css("font-weight", "400");
                 var volunteers = $('<td/>').html(data[1]+" volunteers").css("vertical-align", "middle").css("color", "#2A6EBA");
