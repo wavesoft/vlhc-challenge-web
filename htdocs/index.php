@@ -204,7 +204,7 @@
 					<div class="col-lg-8 col-lg-offset-2 animatedParent">
 						<div class="text-center">
 							<p>Click the following button and be part of the CERN 60 Public Computing Challenge</p>
-							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc" target="_blank" class="start-computing-btn">Start Computing</a></p>
+							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc<?php if (isset($_GET['cpr'])) { echo("#cpr=".$_GET['cpr']); } ?>" target="_blank" class="start-computing-btn">Start Computing</a></p>
 							<p>&nbsp;</p>
 							<p class="text-center"><em>Curious to know what happens when you click this button? Read below!</em></p>
 						</div>
