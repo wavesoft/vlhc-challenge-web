@@ -73,7 +73,7 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 }
 
 .black-frame {
-   background-color: #000;
+   background-color: rgba(0,0,0,0.8);
    border: solid 2px #00BFFF;
    border-radius: 14px;
 }
@@ -81,7 +81,7 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 
 .black-frame-text-big {
     font-family: arial;
-    font-size: 20px;
+    font-size: 18px;
     color: #fff;
     padding: 10px 0 20px 0;
 
@@ -89,17 +89,30 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 
 .black-frame-text-medium {
 	font-family: arial;
-    font-size: 18px;
-    color: #fff;
+    font-size: 16px;
+    color: #999;
     padding: 0px 0 20px 0;
 
 }
 
 .black-frame-text-small {
 	font-family: arial;
-    font-size: 15px;
-    color: #fff;
+    font-size: 11px;
+    color: #666;
     padding: 0px 0 10px 0;
+}
+
+.user_session_bounce_rate h3{
+		margin-bottom : 0px;
+		color : #2A6EBA;
+	}
+
+.table img {
+    max-height: 28px;
+}
+
+.user_session_bounce_rate {
+    font-size: 14px;
 }
 
 .big-heading {
@@ -450,9 +463,9 @@ hr.bold {
 
 /*.hero { background: url(../img/hero-bg.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
 */
-.hero { background: url(../img/event-back.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 150px 0 200px 0; height: auto; }
+.hero { background: url(../img/event-back.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 50px 0 200px 0; height: auto; }
 
-.hero h1 { font-size: 40px; letter-spacing: 12px; margin:40px 0 10px; font-weight: 900; color: #fff;}
+.hero h1 { font-size: 36px; letter-spacing: 12px; margin:40px 0 10px; font-weight: 900; color: #fff;}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { font-size: 24px; font-weight: 400; color: #fefefe; }
 .learn-more-btn { background: #ffffff; padding: 20px 40px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; color: #ffffff; text-transform: uppercase; letter-spacing: 1px; display: inline-block; -webkit-box-shadow: 0px 3px 0px 0px #ffffff; -moz-box-shadow: 0px 3px 0px 0px #ffffff; box-shadow: 0px 3px 0px 0px #ffffff; margin: 60px 0 0; font-weight: bold; color:black; }

@@ -16,6 +16,9 @@
 		<link href="color/default.css" rel="stylesheet">
 		<link rel="shortcut icon" href="favicons/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="favicons/favicon.ico" type="image/x-icon">
+		
+
+		
 	</head>
 	<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5JPWNS" height="0" width="0" style="display: none; visibility: hidden;"></iframe></noscript>
@@ -34,46 +37,67 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center inner">
 						<div class="animatedParent c-glow-black">
-							<h1 class="animated fadeInDown">CERN Public Computing Challenge</h1>
-							<p class="animated fadeInUp">2015</p>
-							<p class="animated fadeInUp">Getting the world involved in science</p>
+							<h1 class="animated fadeInDown">CERN Public Computing Challenge 2015</h1>
+							<!-- <p class="animated fadeInUp">Getting the world involved in science</p> -->
 						</div>
 						<div class="black-frame">
 							<div class="black-frame-text-big">
-							Donate your computer time and help CERN scientists simulating particle collisions in the Large Hadron Colider  
+							Help CERN scientists simulate particle collisions by contributing your computing power. 
 							</div>
 							
 							<div class="black-frame-text-medium">
-							Joining is simple! Download and install the virtual machine software by clicking the blue button below, then start computing.
+							Why? CERN scientists want to compare theories of our Universe with experiments from CERN’s Large Hadron Collider. For that, they need to simulate billions of collisions, far more than their own computers can manage.
 							</br>
 
-							That's all! The Virtual Machine in your computer will take care of everything else. 
+							How? Click the blue button below to download and run CERN's “virtual machine" software. It does the simulations while you keep using your computer as usual.  
 							</div>
 							
-							<div class="black-frame-text-small">
-							 See support instructions in: 
+							<div class="black-frame-text-small"> 
+
 								 
-								<a> <img src="images/flags/GB.png" alt="English" height="30" width="30"> </a>
-								<a> <img src="images/flags/CN.png" alt="Chinese" height="30" width="30"> </a>
-								<a> <img src="images/flags/FR.png" alt="French" height="30" width="30"> </a>
-								<a> <img src="images/flags/ES.png" alt="Spanish" height="30" width="30"> </a>
-								<a> <img src="images/flags/DE.png" alt="German" height="30" width="30"> </a>
+								<a href="translations/AR-CERNChallenge2015.pdf"> <img src="images/flags/SA.png" alt="Arabic" height="30" width="30"> </a>
 
-								<a> <img src="images/flags/TR.png" alt="Turkish" height="30" width="30"> </a>
+								<a href="translations/BG-CERNChallenge2015.pdf"><img src="images/flags/BG.png" alt="Bulgarian" height="30" width="30"> </a>
 
-								<a> <img src="images/flags/RU.png" alt="Russian" height="30" width="30"> </a>
+								<a href="translations/CN-CERNChallenge2015.pdf">
+								 <img src="images/flags/CN.png" alt="Chinese" height="30" width="30"> </a>
 
-								<a> <img src="images/flags/LT.png" alt="Lithuanian" height="30" width="30"> </a>
-								<a> <img src="images/flags/RS.png" alt="Serbian" height="30" width="30"> </a>
+								<a href="translations/CZ-CERNChallenge2015.pdf"><img src="images/flags/CZ.png" alt="Czech" height="30" width="30"> </a>
 
-								<a> <img src="images/flags/CZ.png" alt="Czech" height="30" width="30"> </a>
+								<a href="translations/DE-CERNChallenge2015.pdf"><img src="images/flags/DE.png" alt="German" height="30" width="30"> </a>
 
-								<a> <img src="images/flags/IT.png" alt="Italian" height="30" width="30"> </a>
+								<a href="translations/EN-CERNChallenge2015.pdf">
+								 <img src="images/flags/GB.png" alt="English" height="30" width="30"> </a>
 
-								<a> <img src="images/flags/GR.png" alt="Greek" height="30" width="30"> </a>
+								<a href="translations/ES-CERNChallenge2015.pdf"><img src="images/flags/ES.png" alt="Spanish" height="30" width="30"> </a>
+
+								<a href="translations/FR-CERNChallenge2015.pdf"><img src="images/flags/FR.png" alt="French" height="30" width="30"> </a> 
+
+								<a href="translations/GR-CERNChallenge2015.pdf"><img src="images/flags/GR.png" alt="Greek" height="30" width="30"> </a>
+
+								<a href="translations/IT-CERNChallenge2015.pdf"> <img src="images/flags/IT.png" alt="Italian" height="30" width="30"> </a>
+
+								<a href="translations/LT-CERNChallenge2015.pdf"> <img src="images/flags/LT.png" alt="Lithuanian" height="30" width="30"> </a>
+
+								<a href="translations/LV-CERNChallenge2015.pdf"> <img src="images/flags/LV.png" alt="Lithuanian" height="30" width="30"> </a>
+
+								<a href="translations/NO-CERNChallenge2015.pdf"> <img src="images/flags/NO.png" alt="Norwegian" height="30" width="30"> </a>
+
+
+								<a href="translations/RU-CERNChallenge2015.pdf"> <img src="images/flags/RU.png" alt="Russian" height="30" width="30"> </a>
+
+								<a href="translations/SRB-CERNChallenge2015.pdf"><img src="images/flags/RS.png" alt="Serbian" height="30" width="30"> </a>
+
+								<a href="translations/TK-CERNChallenge2015.pdf"> <img src="images/flags/TR.png" alt="Turkish" height="30" width="30"> </a>
 
 
 							</div>
+
+							<div class="black-frame-text-small"> Help us translate the instructions into <a  href="mailto:citizencyberlab@unige.ch?Subject=CERN%20Volunteer%20Computing%20Challenge%20Translation&Body=Dear%20volunteer%2C%0A%0AMany%20thanks%20for%20helping%20us%20increase%20the%20visibility%20of%20this%20event.%20If%20you%20are%20interested%20in%20translating%20the%20user%20instructions%20into%20another%20language%2C%20please%20fill%20the%20following%20form%20fields.%0A%0AName%20%28optional%29%3A%0ATranslate%20from%20%28e.g.%20English%29%3A%0ATranslate%20to%20%28language%28s%29%20you%20can%20translate%20to%29%3A%0A%0AAs%20soon%20as%20we%20receive%20your%20email%2C%20we%20will%20send%20you%20the%20user%20instructions%20in%20the%20chosen%20language%20and%20editable%20format.%0A%0ABest%20Regards%2C%0A%0A%20Citizen%20Cyber%20Center%20Team">another language.</a></div>
+
+
+							<div class="black-frame-text-medium"> Time left to participate: <div id="countdown"></div> </div>
+			
 
 
 
@@ -99,7 +123,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-2">
-							<div class="site-logo"><a href="#" class="brand"><img src="img/logo.png" height="50px"></a></div>
+							<div class="site-logo"><a href="#" class="brand"><img src="img/CERNLogo.jpg" height="50px"></a></div>
 						</div>
 						<div class="col-md-10">
 							<!-- Brand and toggle get grouped for better mobile display-->
@@ -147,12 +171,17 @@
 							<!-- <p>
 							<h5><font color="#00BFFF">An opportunity</font></h5>
 							</p> -->
-							<p>For the second “CERN Public Computing Challenge”, CERN is asking volunteers to donate their spare computing power to help CERN scientists simulate particle collisions in the Large Hadron Collider (LHC). Via the CERN Virtual Machine, scientists will test new technologies and run new types of simulations for the LHC experiments.</p>
+							<p>For the “CERN Public Computing Challenge 2015”, CERN is asking volunteers to contribute their spare computing power to help CERN scientists simulate billions of particle collisions, in order to compare theoretical models with experimental results from CERN’s Large Hadron Collider and other particle colliders. in the Large Hadron Collider (LHC). Via the CERN Virtual Machine, scientists will test new technologies and run new types of simulations for the LHC experiments.</p>
 							<p>
-								For this year’s challenge - that will run for about a month - CERN is also asking for your help to engage with new communities and social networks, and to achieve a better gender balance as well as greater linguistic diversity.
+							 In particular, this one-month challenge is a chance for scientists to test new technologies for distributing and running simulations for the LHC experiments, using publicly contributed computing power. Namely, we’ll be testing new ways of scheduling the simulations we’re sending out, using a CERN technology called Data Bridge, and a new, lightweight version of the CernVM technology which runs the simulations.
+
+							</p>
+
+							<p>
+								For this year’s challenge, CERN is also asking for your help with new communities and social networks, in order to achieve a better gender balance as well as greater linguistic diversity amongst those contributing to the challenge. Because the motto of our citizen science partnership with the UN Institute for Tranining and Research (UNITAR) and the University of Geneva is “All for science and science for all”.
 							</p>
 							<p>
-								We’ll be sharing our progress towards these goals throughout the challenge, together with details on your own contribution. Are you ready to become one of the top Challenge Crunchers contributing the most power?	
+								We’ll be sharing our progress towards these goals throughout the challenge, together with details about your own contribution. And if you have any questions, about the science, the software or the social aspects of this Challenge, don’t hesitate to post them in the forum at the bottom of this page.	
 							</p>
 							<h5><font color="#00BFFF">A bit of history...</font></h5>
 							</p>
@@ -173,12 +202,10 @@
 							<h5><font color="#00BFFF">and your friends.</font></h5>
 							</p>
 							<p>For this challenge we need more than just your volunteer computing power. We’re relying on Challenge Pioneers to help us engage with new communities and social networks, and achieve a better gender balance as well as greater linguistic diversity amongst those participating in the challenge. We’ll be sharing how we progress towards these goals throughout the challenge, on this site. If this sounds like a challenge you’d like to contribute to, then join now!                 </p> -->
-							<p><a href="#join" target="_blank" class="btn btn-skin btn-scroll"> 
+							<!-- <p><a href="#join" target="_blank" class="btn btn-skin btn-scroll"> 
 								Join Challenge</a>
-							</p>
-							<br><a href="#status" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll"> 
-							See Status</a><a href="#more" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll"> 
-							More Projects</a>
+							</p> -->
+							
 						</div>
 					</div>
 				</div>
@@ -203,9 +230,13 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 animatedParent">
 						<div class="text-center">
-							<p>Click the following button and be part of the CERN 60 Public Computing Challenge</p>
 							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc<?php if (isset($_GET['cpr'])) { echo("#cpr=".$_GET['cpr']); } ?>" target="_blank" class="start-computing-btn">Start Computing</a></p>
-							<p>&nbsp;</p>
+							
+							<!-- <br><a href="#status" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll">
+							See Status</a><a href="#more" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll"> 
+							More Projects</a>
+							<p>&nbsp;</p><p>&nbsp;</p> -->
+
 							<p class="text-center"><em>Curious to know what happens when you click this button? Read below!</em></p>
 						</div>
 					</div>
@@ -424,7 +455,7 @@
 													</ul>
 												</li>
 											</ul>
-											<strong>IF IT STILL DOESN’T WORK</strong><br>In all the above cases, If you are still encountering errors, destroy your Virtual Machine using the trash icon at the bottom of the configuration panel and then refresh the interface. To open this panel, click on the gear symbol at the bottom of the the WebAPI interface.                      If the VM still doesn’t work after removing it and restarting, then remove it again, restart your computer, and try again. In certain rare cases, you may need to restart your computer a second time. If none of the above works for you, contact us through the forum or via <a href="mailto:info@citizencyberlab.com">info@citizencyberlab.com</a> with details of what is going wrong.
+											<strong>IF IT STILL DOESN’T WORK</strong><br>In all the above cases, If you are still encountering errors, destroy your Virtual Machine using the trash icon at the bottom of the configuration panel and then refresh the interface. To open this panel, click on the gear symbol at the bottom of the the WebAPI interface.                      If the VM still doesn’t work after removing it and restarting, then remove it again, restart your computer, and try again. In certain rare cases, you may need to restart your computer a second time. If none of the above works for you, contact us through the forum or via <a href="mailto:citizencyberlab@unige.ch">citizencyberlab@unige.ch</a> with details of what is going wrong.
 										</div>
 									</div>
 								</div>
@@ -588,111 +619,85 @@
 					</div>
 				</div>
 			</div>
-			<div class="text-center">
-				<div class="container">
-					<div class="row c-service">
-						<div id="service-volunteers" class="col-xs-6 col-sm-4 col-md-4">
-							<div>
-								<div class="c-service-icon">
-									<div class="c-icons c-icon-1"></div>
-								</div>
-								<div class="c-service-desc">
-									<div class="marginbot-20">
-										<h5>Volunteers</h5>
-										<div class="divider-header"></div>
-									</div>
-									<div class="row">
-										<div class="col-sm-8 col-sm-offset-2">
-											<h6 id="status-volunteers" class="h-bold c-status c-success">RAMPING UP</h6>
-										</div>
-									</div>
-									<table class="table table-condensed">
-										<tbody>
-											<tr>
-												<th>Users connected:</th>
-												<td class="lbl-connected">--</td>
-											</tr>
-											<tr>
-												<th>Newcomers:</th>
-												<td class="lbl-newcomers">--<small>/h</small></td>
-											</tr>
-											<!--tr--><!--  th Achievements:--><!--  td.lbl-achievements--><!--    | ----><!--    small /124-->
-										</tbody>
-									</table>
-									<div id="chart-volunteers" class="c-chart"></div>
-									<div style="float:right">
-										<div id="chart-volunteers-legend"></div>
-									</div>
-								</div>
-							</div>
+			<!-- <div class="text-center">
+				<p> Comming soon... </p>
+			</div> -->
+		    <div class="row">
+			<div class="container">
+				<div class="col-md-4">
+					
+					<div class="row user_session_bounce_rate">
+						<br/><br/><br/>
+						<div class="col-md-4 col-xs-4">
+							<center>
+								<i class="fa fa-users fa-4x"></i><br/><br/>
+								<h3 id="n-volunteers"></h3>
+								<b>Volunteers</b>
+							</center>
+						</div>	
+						<div class="col-md-4 col-xs-4">
+							<center>
+								<i class="fa fa-database fa-4x"></i><br/><br/>
+								<h3 id="n-sessions"></h3>
+								<b>Sessions</b>
+							</center>
 						</div>
-						<div id="service-infr" class="col-xs-6 col-sm-4 col-md-4">
-							<div>
-								<div class="c-service-icon">
-									<div class="c-icons c-icon-3"></div>
-								</div>
-								<div class="c-service-desc">
-									<div class="marginbot-20">
-										<h5>Overview</h5>
-										<div class="divider-header"></div>
-									</div>
-									<div class="row">
-										<div class="col-sm-8 col-sm-offset-2">
-											<h6 id="status-infr" class="h-bold c-status c-warning">HIGH LOAD</h6>
-										</div>
-									</div>
-									<div class="row">
-										<div class="col-xs-12">
-											<div id="gauge-events" class="c-gauge"></div>
-										</div>
-									</div>
-									<div class="row">
-										<div class="col-xs-12">
-											<div id="gauge-progress" class="c-gauge"></div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div id="service-jobs" class="col-xs-6 col-sm-4 col-md-4">
-							<div>
-								<div class="c-service-icon">
-									<div class="c-icons c-icon-2"></div>
-								</div>
-								<div class="c-service-desc">
-									<div class="marginbot-20">
-										<h5>Computing Tasks</h5>
-										<div class="divider-header"></div>
-									</div>
-									<div class="row">
-										<div class="col-sm-8 col-sm-offset-2">
-											<h6 id="status-jobs" class="h-bold c-status c-warning">STALE</h6>
-										</div>
-									</div>
-									<table class="table table-condensed">
-										<tbody>
-											<tr>
-												<th>Pending:</th>
-												<td class="lbl-pending">--</td>
-											</tr>
-											<tr>
-												<th>Completed:</th>
-												<td class="lbl-completed">--</td>
-											</tr>
-											<!--tr--><!--  th Failed:--><!--  td.lbl-failed ---->
-										</tbody>
-									</table>
-									<div id="chart-jobs" class="c-chart"></div>
-									<div style="float:right">
-										<div id="chart-jobs-legend"></div>
-									</div>
-								</div>
-							</div>
-						</div>
+						<div class="col-md-4 col-xs-4">
+							<center>
+								<i class="fa fa-arrow-down fa-4x"></i><br/><br/>
+								<h3 id="p-bounce-rate"></h3>
+								<b>Bounce Rate</b>
+							</center>
+						</div>		
+					</div>
+					<div class="row">
+						
+							<div id="user_gender" style="min-width: 310px; height: 350px; margin: -2 auto"></div>
+						
 					</div>
 				</div>
+
+			
+				<div class="col-md-7 col-md-offset-1" align="center"> 
+		
+
+						<thead>
+						  <tr>
+						   <th class="text-center" colspan="4">Top 10 countries (Overall)</th>
+						  </tr>
+						 </thead>
+		
+						<table class="table" id="top_10_countries">
+						</table>
+		
+				</div>
+				
+
 			</div>
+		</div>
+		
+		<div class="row">
+			<div class="container">
+				
+				<!-- <div class="col-md-8"> -->
+					<div id="map" style="height:500px" ></div>
+				<!-- </div> -->
+				<!-- <div class="col-md-5 col-md-offset-2">
+					<div class="panel panel-default">
+						
+						<div class="panel-heading"><h7>Top 10 countries (Female Users)</h7></div>
+						<table class="table" id="top_10_countries_female_users">
+						</table>
+					</div>				
+				</div> -->
+			
+			</div>
+		</div> 
+
 		</section>
+
+
+
 
 		<!-- Section: more-->
 		<section id="more" class="home-section color-dark bg-gray">
@@ -870,7 +875,26 @@
 		<!--script(src="js/jquery.flot.tooltip.js")-->
 		<script src="js/raphael-min.js"></script>
 		<script src="js/justgage.js"></script>
-		<script src="js/challenge-dashboard.js"></script>
+		 <!-- <script src="js/challenge-dashboard.js"></script> -->
+		<script type="text/javascript" src="js/counterDown.js"></script>
+		<!-- For the public analytics -->
+		<script type="text/javascript" src="js/country_code.js"></script>
+ 		<script type="text/javascript" src="js/ga_data.php"></script>
+ 		
+ 		<script src="js/Highmaps-1.1.5/highcharts.js"></script>
+ 		<script src="js/Highmaps-1.1.5/map.js"></script>
+ 		<script src="js/Highmaps-1.1.5/data.js"></script>
+ 		<script src="js/Highmaps-1.1.5/world.js"></script>
+
+
+ 		 <!-- <script src="http://code.highcharts.com/highcharts.js"></script>
+ 		 <script src="http://code.highcharts.com/maps/modules/map.js"></script>
+ 		 <script src="http://code.highcharts.com/maps/modules/data.js"></script>
+ 		 <script src="http://code.highcharts.com/mapdata/custom/world.js"></script> -->
+ 		
+ 		<script type="text/javascript" src="js/t4tc_analytics.js"></script>
+ 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		<!-- End public analytics -->
 
 	</body>
 </html>
