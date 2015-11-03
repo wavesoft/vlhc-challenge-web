@@ -18,8 +18,8 @@
 		<link rel="icon" href="favicons/favicon.ico" type="image/x-icon">
 
 		<!-- OpenGraph Properties -->
-		<meta property="og:title" content="CERN volunteer Computing Challenge 2015" />
-		<meta property="og:headline" content="Be part of the CERN's 2015 edition of Computing Challenge" />
+		<meta property="og:title" content="CERN Public Computing Challenge 2015" />
+		<meta property="og:headline" content="Be part of the CERN's 2015 edition of the Computing Challenge" />
 		<meta property="og:description" content="Join the CERN Computing challenge and join the big community of volunteers for science!" />
 		<meta property="og:image" content="http://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		<meta property="og:image:secure_url" content="https://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
