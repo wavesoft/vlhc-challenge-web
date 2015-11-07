@@ -73,8 +73,8 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 }
 
 .black-frame {
-   background-color: rgba(0,0,0,0.8);
-   border: solid 2px #00BFFF;
+   background-color: rgba(0,0,0,0.2);
+   border: solid 0px #00BFFF;
    border-radius: 14px;
 }
 
@@ -90,7 +90,7 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 .black-frame-text-medium {
 	font-family: arial;
     font-size: 16px;
-    color: #999;
+    color: #fff;
     padding: 0px 0 20px 0;
 
 }
@@ -98,7 +98,7 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 .black-frame-text-small {
 	font-family: arial;
     font-size: 11px;
-    color: #666;
+    color: #fff;
     padding: 0px 0 10px 0;
 }
 
@@ -463,7 +463,7 @@ hr.bold {
 
 /*.hero { background: url(../img/hero-bg.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
 */
-.hero { background: url(../img/event-back.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 50px 0 200px 0; height: auto; }
+.hero { background: url(../img/event-back-cropped.png) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 50px 0 200px 0; height: auto; }
 
 .hero h1 { font-size: 36px; letter-spacing: 12px; margin:40px 0 10px; font-weight: 900; color: #fff;}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
