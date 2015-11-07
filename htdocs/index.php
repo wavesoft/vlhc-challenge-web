@@ -47,15 +47,24 @@
 						</div>
 						<div class="black-frame">
 							<div class="black-frame-text-big">
-							Help CERN scientists simulate particle collisions by contributing your computing power. 
-							</div>
+							Help scientists simulate particle collisions. 
+							</br>
+							<!-- </div>
 							
-							<div class="black-frame-text-medium">
-							Why? CERN scientists want to compare theories of our Universe with experiments from CERN’s Large Hadron Collider. For that, they need to simulate billions of collisions, far more than their own computers can manage.
+							<div class="black-frame-text-big"> -->
+							Contribute your computer's power.	
+							
 							</br>
 
-							How? Click the blue button below to download and run CERN's “virtual machine" software. It does the simulations while you keep using your computer as usual.  
+							Earn challenge credits and badges.
+							</br>
+
+							Learn about the origins of our Universe.  
 							</div>
+
+							</br>
+							
+
 							
 							<div class="black-frame-text-small"> 
 
@@ -176,14 +185,14 @@
 							<!-- <p>
 							<h5><font color="#00BFFF">An opportunity</font></h5>
 							</p> -->
-							<p>For the “CERN Public Computing Challenge 2015”, CERN is asking volunteers to contribute their spare computing power to help CERN scientists simulate billions of particle collisions, in order to compare theoretical models with experimental results from CERN’s Large Hadron Collider and other particle colliders. in the Large Hadron Collider (LHC). Via the CERN Virtual Machine, scientists will test new technologies and run new types of simulations for the LHC experiments.</p>
+							<p>For the “CERN Public Computing Challenge 2015”, CERN is asking volunteers to contribute their spare computing power to help CERN scientists simulate billions of particle collisions, in order to compare theoretical models with experimental results from CERN’s Large Hadron Collider and other particle colliders.</p>
 							<p>
 							 In particular, this one-month challenge is a chance for scientists to test new technologies for distributing and running simulations for the LHC experiments, using publicly contributed computing power. Namely, we’ll be testing new ways of scheduling the simulations we’re sending out, using a CERN technology called Data Bridge, and a new, lightweight version of the CernVM technology which runs the simulations.
 
 							</p>
 
 							<p>
-								For this year’s challenge, CERN is also asking for your help with new communities and social networks, in order to achieve a better gender balance as well as greater linguistic diversity amongst those contributing to the challenge. Because the motto of our citizen science partnership with the UN Institute for Tranining and Research (UNITAR) and the University of Geneva is “All for science and science for all”.
+								For this year’s challenge, CERN is also asking for your help with new communities and social networks, in order to achieve a better gender balance as well as greater linguistic diversity amongst those contributing to the challenge. To help with this, we’re testing a new credit and badging system called CreditPiggy, which we hope will motivate your participation with both individual and challenge-wide statistics about your contributions.
 							</p>
 							<p>
 								We’ll be sharing our progress towards these goals throughout the challenge, together with details about your own contribution. And if you have any questions, about the science, the software or the social aspects of this Challenge, don’t hesitate to post them in the forum at the bottom of this page.	
@@ -275,7 +284,7 @@
 								<div class="service-icon"><span><img src="icons/icon-antimatter-01.png"></span></div>
 								<div class="service-desc">
 									<h5>You are now in control</h5>
-									<p>After all this software is installed on your computer, just click “Start” on the WebAPI interface, wait for the software to load and join the challenge! You can press “Stop” at any time. Note that closing the WebAPI interface does not stop the Virtual Machine!</p>
+									<p>After all this software is installed on your computer, just click “Start” on the Challenge Dashboard, wait for the software to load and join the challenge! You can press “Stop” at any time. Note that closing the Challenge Dashboard does not stop the Virtual Machine!</p>
 									<p><em>What can I control?</em><br><small>You can define how much CPU and RAM you allocate to the project, by clicking on the gear icon next to the start button. Remember to click Apply! </small></p>
 								</div>
 							</div>
@@ -421,7 +430,7 @@
 										<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#accordion20"><strong>Q2:</strong> How can I stop the virtual machine?</a></h4>
 									</div>
 									<div id="accordion20" class="panel-collapse collapse">
-										<div class="panel-body"><strong>A:</strong> When the WebAPI interface is open, and the virtual machine is running, you will see a Stop button at the bottom of the webpage. Click it to stop the virtual machine.<br>If you close the WebAPI interface, the virtual machine keeps running. You can always stop it by opening the WebAPI interface again. To do this, click the Start Computing button on this web page. The WebAPI interface will open. Then press the "Stop" button.</div>
+										<div class="panel-body"><strong>A:</strong> When the Challenge Dashboard is open, and the virtual machine is running, you will see a Stop button at the bottom of the webpage. Click it to stop the virtual machine.<br>If you close the Challenge Dashboard, the virtual machine keeps running. You can always stop it by opening the Challenge Dashboard again. To do this, click the Start Computing button on this web page. The Challenge Dashboard will open. Then press the "Stop" button.</div>
 									</div>
 								</div>
 								<div class="panel panel-default">
@@ -460,7 +469,7 @@
 													</ul>
 												</li>
 											</ul>
-											<strong>IF IT STILL DOESN’T WORK</strong><br>In all the above cases, If you are still encountering errors, destroy your Virtual Machine using the trash icon at the bottom of the configuration panel and then refresh the interface. To open this panel, click on the gear symbol at the bottom of the the WebAPI interface.                      If the VM still doesn’t work after removing it and restarting, then remove it again, restart your computer, and try again. In certain rare cases, you may need to restart your computer a second time. If none of the above works for you, contact us through the forum or via <a href="mailto:citizencyberlab@unige.ch">citizencyberlab@unige.ch</a> with details of what is going wrong.
+											<strong>IF IT STILL DOESN’T WORK</strong><br>In all the above cases, If you are still encountering errors, destroy your Virtual Machine using the trash icon at the bottom of the configuration panel and then refresh the interface. To open this panel, click on the gear symbol at the bottom of the Challenge Dashboard.                      If the VM still doesn’t work after removing it and restarting, then remove it again, restart your computer, and try again. In certain rare cases, you may need to restart your computer a second time. If none of the above works for you, contact us through the forum or via <a href="mailto:citizencyberlab@unige.ch">citizencyberlab@unige.ch</a> with details of what is going wrong.
 										</div>
 									</div>
 								</div>
@@ -824,7 +833,7 @@
 			<div class="container">
 				<div class="row marginbot-80">
 					<div class="col-md-8 col-md-offset-2">
-						<p>The CERN Public Computing Challenge is brought to you by the <a href="http://citizencyberlab.eu/" target="_blank">Citizen Cyberlab</a> project and the <a href="http://www.citizencyberscience.net/" target="_blank">Citizen Cyberscience Centre</a>. We're pushing the boundaries of citizen science and informal learning on the Web. Follow us on <a href="https://www.facebook.com/CyberSciCentre" target="_blank">Facebook</a> and <a href="https://twitter.com/CitizenCyberlab" target="_blank">Twitter</a>.<br>Have a question about the science behind this? Ask an expert in <a href="#disqus" class="btn-scroll"> our forum</a>  below.</p>
+						<p>The CERN Public Computing Challenge is brought to you by the <a href="http://citizencyberlab.org/" target="_blank">Citizen Cyberlab</a>. We're pushing the boundaries of citizen science and informal learning on the Web. Follow us on <a href="https://www.facebook.com/CyberSciCentre" target="_blank">Facebook</a> and <a href="https://twitter.com/CitizenCyberlab" target="_blank">Twitter</a>.<br>Have a question about the science behind this? Ask an expert in <a href="#disqus" class="btn-scroll"> our forum</a>  below.</p>
 					</div>
 				</div>
 			</div>
