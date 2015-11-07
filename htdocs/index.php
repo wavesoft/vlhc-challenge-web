@@ -16,8 +16,13 @@
 		<link href="color/default.css" rel="stylesheet">
 		<link rel="shortcut icon" href="favicons/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="favicons/favicon.ico" type="image/x-icon">
-		
 
+		<!-- OpenGraph Properties -->
+		<meta property="og:title" content="CERN Public Computing Challenge 2015" />
+		<meta property="og:headline" content="Be part of the CERN's 2015 edition of the Computing Challenge" />
+		<meta property="og:description" content="Join the CERN Computing challenge and join the big community of volunteers for science!" />
+		<meta property="og:image" content="http://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
+		<meta property="og:image:secure_url" content="https://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		
 	</head>
 	<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
@@ -239,8 +244,7 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 animatedParent">
 						<div class="text-center">
-							
-							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc" target="_blank" class="start-computing-btn">Start Computing</a></p>
+							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc<?php if (isset($_GET['cpr'])) { echo("#cpr=".$_GET['cpr']); } ?>" target="_blank" class="start-computing-btn">Start Computing</a></p>
 							
 							<!-- <br><a href="#status" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll">
 							See Status</a><a href="#more" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll"> 
