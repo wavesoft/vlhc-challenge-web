@@ -716,12 +716,12 @@
 		</div> 
 
 		<div class="row">
-			<div class="container marginbot-10">
+			<div class="container">
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="animatedParent">
 							<div class="section-heading text-center">
-								<h2 class="h-bold animated bounceInDown">Achievements</h2>
+								<h2 class="h-bold animated bounceInDown" id="achievements">Achievements</h2>
 								<div class="divider-header"></div>
 							</div>
 						</div>
