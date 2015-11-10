@@ -1,4 +1,14 @@
-<!-- Authors : S.P. Mohanty<sp.mohanty@cern.ch> , Ioannis Charampidis<Ioannis.Charalampidis@cern.ch>--><!DOCTYPE html>
+<?php
+// Enforce non-ssl version (for creditpiggy embed to work)
+if ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || ($_SERVER['SERVER_PORT'] == 443)) {
+	if (isset($_SERVER['QUERY_STRING']) && $_SERVER['QUERY_STRING']) {
+		header("Location: http://test4theory.cern.ch/challenge/?".$_SERVER['QUERY_STRING']);
+	} else {
+		header("Location: http://test4theory.cern.ch/challenge/");
+	}
+}
+?><!DOCTYPE html>
+<!-- Authors : S.P. Mohanty<sp.mohanty@cern.ch> , Ioannis Charampidis<Ioannis.Charalampidis@cern.ch>-->
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
@@ -707,6 +717,24 @@
 			
 			</div>
 		</div> 
+
+		<div class="row">
+			<div class="container marginbot-10">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2">
+						<div class="animatedParent">
+							<div class="section-heading text-center">
+								<h2 class="h-bold animated bounceInDown">Achievements</h2>
+								<div class="divider-header"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<iframe frameborder="0" src="http://creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 260px"></iframe>
+			</div>
+		</div>
 
 		</section>
 
