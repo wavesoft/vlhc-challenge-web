@@ -25,12 +25,6 @@
 		<meta property="og:image" content="http://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		<meta property="og:image:secure_url" content="https://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		
-		<!-- Redirect if we are on https (CreditPiggy does not work currently over HTTPS) -->
-		<script type="text/javascript">
-		if (window.location.protocol == "https:")
-			window.location = "http:" + window.location.toString().substr(6);
-		</script>
-
 	</head>
 	<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5JPWNS" height="0" width="0" style="display: none; visibility: hidden;"></iframe></noscript>
@@ -729,7 +723,7 @@
 				</div>
 			</div>
 			<div class="container">
-				<iframe frameborder="0" src="http://creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 260px"></iframe>
+				<iframe frameborder="0" src="//creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 260px"></iframe>
 			</div>
 		</div>
 
