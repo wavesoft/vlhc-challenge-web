@@ -73,9 +73,7 @@ h1.font-light,h2.font-light,h3.font-light,h4.font-light,h5.font-light,h6.font-li
 }
 
 .black-frame {
-   background-color: rgba(0,0,0,0.2);
-   border: solid 0px #00BFFF;
-   border-radius: 14px;
+	text-shadow: 1px 1px 0 #000;
 }
 
 
