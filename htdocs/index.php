@@ -1,13 +1,4 @@
-<?php
-// Enforce non-ssl version (for creditpiggy embed to work)
-if ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || ($_SERVER['SERVER_PORT'] == 443)) {
-	if (isset($_SERVER['QUERY_STRING']) && $_SERVER['QUERY_STRING']) {
-		header("Location: http://test4theory.cern.ch/challenge/?".$_SERVER['QUERY_STRING']);
-	} else {
-		header("Location: http://test4theory.cern.ch/challenge/");
-	}
-}
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <!-- Authors : S.P. Mohanty<sp.mohanty@cern.ch> , Ioannis Charampidis<Ioannis.Charalampidis@cern.ch>-->
 <html lang="en">
 	<head>
@@ -34,6 +25,12 @@ if ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || ($_SERVER['SER
 		<meta property="og:image" content="http://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		<meta property="og:image:secure_url" content="https://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		
+		<!-- Redirect if we are on https (CreditPiggy does not work currently over HTTPS) -->
+		<script type="text/javascript">
+		if (window.location.protocol == "https:")
+			window.location = "http:" + window.location.toString().substr(6);
+		</script>
+
 	</head>
 	<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5JPWNS" height="0" width="0" style="display: none; visibility: hidden;"></iframe></noscript>
