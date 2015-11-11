@@ -101,6 +101,8 @@
 
 								<a href="translations/RU-CERNChallenge2015.pdf"> <img src="images/flags/RU.png" alt="Russian" height="30" width="30"> </a>
 
+								<a href="translations/SK-CERNChallenge2015.pdf"><img src="images/flags/SK.png" alt="Slovak" height="30" width="30"> </a>
+
 								<a href="translations/SRB-CERNChallenge2015.pdf"><img src="images/flags/RS.png" alt="Serbian" height="30" width="30"> </a>
 
 								<a href="translations/TK-CERNChallenge2015.pdf"> <img src="images/flags/TR.png" alt="Turkish" height="30" width="30"> </a>
