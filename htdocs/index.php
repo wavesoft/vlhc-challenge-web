@@ -1,4 +1,5 @@
-<!-- Authors : S.P. Mohanty<sp.mohanty@cern.ch> , Ioannis Charampidis<Ioannis.Charalampidis@cern.ch>--><!DOCTYPE html>
+<!DOCTYPE html>
+<!-- Authors : S.P. Mohanty<sp.mohanty@cern.ch> , Ioannis Charampidis<Ioannis.Charalampidis@cern.ch>-->
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
@@ -16,8 +17,13 @@
 		<link href="color/default.css" rel="stylesheet">
 		<link rel="shortcut icon" href="favicons/favicon.ico" type="image/x-icon">
 		<link rel="icon" href="favicons/favicon.ico" type="image/x-icon">
-		
 
+		<!-- OpenGraph Properties -->
+		<meta property="og:title" content="CERN Public Computing Challenge 2015" />
+		<meta property="og:headline" content="Be part of the CERN's 2015 edition of the Computing Challenge" />
+		<meta property="og:description" content="Join the CERN Computing challenge and join the big community of volunteers for science!" />
+		<meta property="og:image" content="http://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
+		<meta property="og:image:secure_url" content="https://test4theory.cern.ch/vlhc/style/img/thumb-challenge.png" />
 		
 	</head>
 	<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
@@ -239,8 +245,7 @@
 				<div class="row">
 					<div class="col-lg-8 col-lg-offset-2 animatedParent">
 						<div class="text-center">
-							
-							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc" target="_blank" class="start-computing-btn">Start Computing</a></p>
+							<p class="marginbot-20"><a href="http://test4theory.cern.ch/vlhc<?php if (isset($_GET['cpr'])) { echo("#cpr=".$_GET['cpr']); } ?>" target="_blank" class="start-computing-btn">Start Computing</a></p>
 							
 							<!-- <br><a href="#status" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll">
 							See Status</a><a href="#more" target="_blank" style="margin:5px" class="btn btn-skin btn-scroll"> 
@@ -703,6 +708,24 @@
 			
 			</div>
 		</div> 
+
+		<div class="row">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 col-lg-offset-2">
+						<div class="animatedParent">
+							<div class="section-heading text-center">
+								<h2 class="h-bold animated bounceInDown" id="achievements">Achievements</h2>
+								<div class="divider-header"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<iframe frameborder="0" src="//creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 260px"></iframe>
+			</div>
+		</div>
 
 		</section>
 
