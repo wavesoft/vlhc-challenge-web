@@ -636,6 +636,9 @@
 					</div>
 				</div>
 			</div>
+			<div class="container">
+				<iframe frameborder="0" src="//creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 260px"></iframe>
+			</div>				
 			<!-- <div class="text-center">
 				<p> Comming soon... </p>
 			</div> -->
@@ -710,24 +713,6 @@
 			
 			</div>
 		</div> 
-
-		<div class="row">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-8 col-lg-offset-2">
-						<div class="animatedParent">
-							<div class="section-heading text-center">
-								<h2 class="h-bold animated bounceInDown" id="achievements">Achievements</h2>
-								<div class="divider-header"></div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="container">
-				<iframe frameborder="0" src="//creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 260px"></iframe>
-			</div>
-		</div>
 
 		</section>
 
