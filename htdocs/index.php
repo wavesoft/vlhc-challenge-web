@@ -198,7 +198,7 @@
 								For this year’s challenge, CERN is also asking for your help with new communities and social networks, in order to achieve a better gender balance as well as greater linguistic diversity amongst those contributing to the challenge. To help with this, we’re testing a new credit and badging system called <a href="//creditpiggy.cern.ch" target="_blank">CreditPiggy</a>, which we hope will motivate your participation with both individual and challenge-wide statistics about your contributions.
 							</p>
 
-							<p>Below you can see the next CreditPiggy goal for the whole challenge:</p>
+							<p>Below you can see the CreditPiggy goals for the whole challenge:</p>
 							<iframe frameborder="0" src="//creditpiggy.cern.ch/embed/status.website/?webid=efc98cfc58eb4526b2babbbc871bec11&amp;bg=fff" style="width: 100%; height: 270px"></iframe>
 
 							<p>
