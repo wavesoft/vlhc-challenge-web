@@ -72,6 +72,8 @@
 								 
 								<a href="translations/AR-CERNChallenge2015.pdf"> <img src="images/flags/SA.png" alt="Arabic" height="30" width="30"> </a>
 
+								<a href="translations/BA-CERNChallenge2015.pdf"> <img src="images/flags/BA.png" alt="Bosnian" height="30" width="30"> </a>
+
 								<a href="translations/BG-CERNChallenge2015.pdf"><img src="images/flags/BG.png" alt="Bulgarian" height="30" width="30"> </a>
 
 								<a href="translations/CN-CERNChallenge2015.pdf">
