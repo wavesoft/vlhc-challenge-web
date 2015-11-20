@@ -102,13 +102,15 @@
 
 								<a href="translations/LV-CERNChallenge2015.pdf"> <img src="images/flags/LV.png" alt="Latvian" height="30" width="30"> </a>
 
-								<!-- <a href="translations/MK-CERNChallenge2015.pdf"> <img src="images/flags/MK.png" alt="Macedonian" height="30" width="30"> </a> -->
+								
 
 								<a href="translations/NO-CERNChallenge2015.pdf"> <img src="images/flags/NO.png" alt="Norwegian" height="30" width="30"> </a>
 
 								<a href="translations/PT-CERNChallenge2015.pdf"> <img src="images/flags/PT.png" alt="Portuguese" height="30" width="30"> </a>
 
 								<a href="translations/RU-CERNChallenge2015.pdf"> <img src="images/flags/RU.png" alt="Russian" height="30" width="30"> </a>
+
+								<a href="translations/SI-CERNChallenge2015.pdf"> <img src="images/flags/SI.png" alt="Macedonian" height="30" width="30"> </a>
 
 								<a href="translations/SK-CERNChallenge2015.pdf"><img src="images/flags/SK.png" alt="Slovak" height="30" width="30"> </a>
 
