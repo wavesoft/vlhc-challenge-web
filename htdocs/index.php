@@ -102,7 +102,7 @@
 
 								<a href="translations/LV-CERNChallenge2015.pdf"> <img src="images/flags/LV.png" alt="Latvian" height="30" width="30"> </a>
 
-								<a href="translations/MK-CERNChallenge2015.pdf"> <img src="images/flags/MK.png" alt="Macedonian" height="30" width="30"> </a>
+								<!-- <a href="translations/MK-CERNChallenge2015.pdf"> <img src="images/flags/MK.png" alt="Macedonian" height="30" width="30"> </a> -->
 
 								<a href="translations/NO-CERNChallenge2015.pdf"> <img src="images/flags/NO.png" alt="Norwegian" height="30" width="30"> </a>
 
