@@ -88,6 +88,7 @@
 
 								<a href="translations/ES-CERNChallenge2015.pdf"><img src="images/flags/ES.png" alt="Spanish" height="30" width="30"> </a>
 
+
 								<a href="translations/FR-CERNChallenge2015.pdf"><img src="images/flags/FR.png" alt="French" height="30" width="30"> </a> 
 
 								<a href="translations/IN-CERNChallenge2015.pdf"><img src="images/flags/IN.png" alt="Hindi" height="30" width="30"> </a>
@@ -98,13 +99,16 @@
 
 								<a href="translations/IT-CERNChallenge2015.pdf"> <img src="images/flags/IT.png" alt="Italian" height="30" width="30"> </a>
 
+								</br>
+
 								<a href="translations/LT-CERNChallenge2015.pdf"> <img src="images/flags/LT.png" alt="Lithuanian" height="30" width="30"> </a>
 
 								<a href="translations/LV-CERNChallenge2015.pdf"> <img src="images/flags/LV.png" alt="Latvian" height="30" width="30"> </a>
-
 								
 
 								<a href="translations/NO-CERNChallenge2015.pdf"> <img src="images/flags/NO.png" alt="Norwegian" height="30" width="30"> </a>
+
+								<a href="translations/PL-CERNChallenge2015.pdf"> <img src="images/flags/PL.png" alt="Polish" height="30" width="30"> </a>
 
 								<a href="translations/PT-CERNChallenge2015.pdf"> <img src="images/flags/PT.png" alt="Portuguese" height="30" width="30"> </a>
 
